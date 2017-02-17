@@ -1,0 +1,2 @@
+git+https://github.com/datalogai/recurrentshop.git#egg=recurrentshop-0.0.1
+keras==1.1.0
