@@ -3,7 +3,7 @@ from setuptools import find_packages
 
 install_requires = [
     'Keras',
-    'recurrentshop'
+    'recurrentshop-0.0.1'
 ]
 
 setup(
