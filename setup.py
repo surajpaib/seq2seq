@@ -16,5 +16,5 @@ setup(
       license='GNU GPL v2',
       install_requires=install_requires,
       packages=find_packages(),
-      dependency_links=['https://github.com/farizrahman4u/recurrentshop#egg=recurrentshop-0.0.1']
+      dependency_links=['https://github.com/datalogai/recurrentshop#egg=recurrentshop-0.0.1']
 )
