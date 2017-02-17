@@ -15,6 +15,5 @@ setup(
       url='https://github.com/farizrahman4u/seq2seq',
       license='GNU GPL v2',
       install_requires=install_requires,
-      packages=find_packages(),
-      dependency_links=['https://github.com/datalogai/recurrentshop#egg=recurrentshop-0.0.1']
+      packages=find_packages()
 )
